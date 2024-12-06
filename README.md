@@ -1,8 +1,10 @@
 # Langchain RAG Tutorial
 
+This is originally copied from https://github.com/pixegami/langchain-rag-tutorial:c6e0454.
+
 ## Install dependencies
 
-1. Do the following before installing the dependencies found in `requirements.txt` file because of current challenges installing `onnxruntime` through `pip install onnxruntime`. 
+1. Do the following before installing the dependencies found in `requirements.txt` file because of current challenges installing `onnxruntime` through `pip install onnxrunti originalme`. 
 
     - For MacOS users, a workaround is to first install `onnxruntime` dependency for `chromadb` using:
 
